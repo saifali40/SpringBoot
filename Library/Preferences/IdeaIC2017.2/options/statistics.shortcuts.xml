@@ -1,0 +1,70 @@
+<application>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Alt+Backspace" count="17" />
+      <entry shortcut="Alt+Right" count="23" />
+      <entry shortcut="Alt+Shift+Down" count="6" />
+      <entry shortcut="Alt+Shift+Left" count="1" />
+      <entry shortcut="Alt+Shift+Up" count="6" />
+      <entry shortcut="Alt+Space" count="1" />
+      <entry shortcut="Backspace" count="8563" />
+      <entry shortcut="Ctrl+C" count="1" />
+      <entry shortcut="Ctrl+Space" count="2" />
+      <entry shortcut="Delete" count="59" />
+      <entry shortcut="Down" count="2816" />
+      <entry shortcut="Enter" count="3112" />
+      <entry shortcut="Escape" count="242" />
+      <entry shortcut="F2" count="10" />
+      <entry shortcut="F6" count="4" />
+      <entry shortcut="Left" count="1274" />
+      <entry shortcut="Meta+1" count="4" />
+      <entry shortcut="Meta+7" count="7" />
+      <entry shortcut="Meta+A" count="30" />
+      <entry shortcut="Meta+B" count="1" />
+      <entry shortcut="Meta+Backspace" count="1586" />
+      <entry shortcut="Meta+C" count="473" />
+      <entry shortcut="Meta+D" count="31" />
+      <entry shortcut="Meta+Down" count="2" />
+      <entry shortcut="Meta+Equals" count="2" />
+      <entry shortcut="Meta+F" count="39" />
+      <entry shortcut="Meta+L" count="1" />
+      <entry shortcut="Meta+Left" count="181" />
+      <entry shortcut="Meta+N" count="22" />
+      <entry shortcut="Meta+O" count="1" />
+      <entry shortcut="Meta+R" count="1" />
+      <entry shortcut="Meta+Right" count="528" />
+      <entry shortcut="Meta+S" count="2986" />
+      <entry shortcut="Meta+Semicolon" count="1" />
+      <entry shortcut="Meta+Shift+B" count="1" />
+      <entry shortcut="Meta+Shift+C" count="2" />
+      <entry shortcut="Meta+Shift+Down" count="2" />
+      <entry shortcut="Meta+Shift+F12" count="3" />
+      <entry shortcut="Meta+Shift+Left" count="60" />
+      <entry shortcut="Meta+Shift+N" count="4" />
+      <entry shortcut="Meta+Shift+O" count="1" />
+      <entry shortcut="Meta+Shift+R" count="9" />
+      <entry shortcut="Meta+Shift+Right" count="217" />
+      <entry shortcut="Meta+Shift+Up" count="1" />
+      <entry shortcut="Meta+Shift+V" count="2" />
+      <entry shortcut="Meta+Shift+Z" count="41" />
+      <entry shortcut="Meta+Slash" count="16" />
+      <entry shortcut="Meta+Up" count="4" />
+      <entry shortcut="Meta+V" count="918" />
+      <entry shortcut="Meta+W" count="1" />
+      <entry shortcut="Meta+X" count="65" />
+      <entry shortcut="Meta+Z" count="1336" />
+      <entry shortcut="Right" count="2138" />
+      <entry shortcut="Shift+Backspace" count="8" />
+      <entry shortcut="Shift+Down" count="52" />
+      <entry shortcut="Shift+Enter" count="8" />
+      <entry shortcut="Shift+F2" count="1" />
+      <entry shortcut="Shift+F6" count="7" />
+      <entry shortcut="Shift+Left" count="48" />
+      <entry shortcut="Shift+Right" count="66" />
+      <entry shortcut="Shift+Shift" count="5" />
+      <entry shortcut="Shift+Up" count="17" />
+      <entry shortcut="Tab" count="696" />
+      <entry shortcut="Up" count="2327" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,40 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Coverage@NavBarToolbar" count="3" />
+      <entry action="Debug@NavBarToolbar" count="1" />
+      <entry action="Pause@DebuggerToolbar" count="5" />
+      <entry action="Print@RunnerToolbar" count="12" />
+      <entry action="Rerun@DebuggerToolbar" count="108" />
+      <entry action="Rerun@RunnerToolbar" count="55" />
+      <entry action="Resume@DebuggerToolbar" count="530" />
+      <entry action="Run@NavBarToolbar" count="5" />
+      <entry action="ShowExecutionPoint@DebuggerToolbar" count="4" />
+      <entry action="ShowProjectStructureSettings@NavBarToolbar" count="2" />
+      <entry action="Stop@DebuggerToolbar" count="137" />
+      <entry action="Stop@NavBarToolbar" count="5" />
+      <entry action="Stop@RunnerToolbar" count="185" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="1" />
+      <entry action="XDebugger.MuteBreakpoints@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.coverage.view.CoverageView$GoUpAction@CoverageView" count="5" />
+      <entry action="com.intellij.execution.configurations.CommandLineState$PauseOutputAction@RunnerToolbar" count="11" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$7@RunnerToolbar" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="859" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="36" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="2" />
+      <entry action="com.intellij.ide.actions.ContextHelpAction@EventLog" count="2" />
+      <entry action="com.intellij.ide.actions.NextOccurenceToolbarAction@RunnerToolbar" count="4" />
+      <entry action="com.intellij.ide.actions.PreviousOccurenceToolbarAction@RunnerToolbar" count="4" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$5@CompilerMessagesToolbar" count="14" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$RerunAction@CompilerMessagesToolbar" count="2" />
+      <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$5@FileTemplatesConfigurable" count="1" />
+      <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6@FileTemplatesConfigurable" count="2" />
+      <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$7@FileTemplatesConfigurable" count="1" />
+      <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="68" />
+      <entry action="com.intellij.notification.EventLogToolWindowFactory$EditNotificationSettings@EventLog" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="10" />
+      <entry action="com.intellij.ui.AutoScrollToSourceHandler$AutoscrollToSourceAction@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="6" />
+    </counts>
+  </component>
+</application>
